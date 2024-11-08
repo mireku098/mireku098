@@ -34,7 +34,7 @@ An ambitious, detail-oriented junior Full Stack Developer passionate about creat
 - **[OCR Hub](https://ocrhub.42web.io)**: An optical character recognition app that extracts text from images and PDFs.
   - **Technologies**: PHP, Flask
 
-- **[TTS with TTSMMS](https://github.com/mireku098/prof_biography)**: Text-to-speech app leveraging natural language processing for audio conversion.
+- **[TTS with TTSMMS](https://github.com/mireku098/tts_with_ttsmms)**: Text-to-speech app leveraging natural language processing for audio conversion.
   - **Technologies**: Flask, HTML, Bootstrap, JQuery
 
 - **[Afropsycho](https://afropsycho1.wordpress.com/)**: A WordPress site for an entrepreneur to showcase products.
