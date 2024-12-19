@@ -7,7 +7,7 @@ An ambitious, detail-oriented junior Full Stack Developer passionate about creat
 - 🎓 **Education**: Bachelor of Science in Information Technology (University of Cape Coast, Expected 2025)
 - 🖥️  **Portfolio**: [mireku098.github.io/portfolio](http://mireku098.github.io/portfolio/)
 - ✉️  **Email**: [michaelmireku098@gmail.com](mailto:michaelmireku098@gmail.com)
-- 🧠  **Currently Learning**: React.js, Node.js, Laravel, and Django
+- 🧠  **Currently Learning**: Laravel, and Django
 
 ---
 
