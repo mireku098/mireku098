@@ -1,10 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 # Hi! I'm Michael Mireku
 
-An ambitious, detail-oriented junior Full Stack Developer passionate about creating efficient, responsive, and user-friendly web applications. Currently diving deeper into Node.js, React.js, Laravel, and Django.
+An ambitious, detail-oriented Full Stack Developer passionate about creating efficient, responsive, and user-friendly web applications. 
 
 - 🌍  **Location**: Accra, Ghana
-- 🎓 **Education**: Bachelor of Science in Information Technology (University of Cape Coast, Expected 2025)
+- 🎓 **Education**: Bachelor of Science in Information Technology (University of Cape Coast, 2025)
 - 🖥️  **Portfolio**: [mireku098.github.io/portfolio](http://mireku098.github.io/portfolio/)
 - ✉️  **Email**: [michaelmireku098@gmail.com](mailto:michaelmireku098@gmail.com)
 - 🧠  **Currently Learning**: Laravel, and Django
@@ -13,8 +13,8 @@ An ambitious, detail-oriented junior Full Stack Developer passionate about creat
 
 ### Skills  
 
-**Front-End Technologies**: HTML, CSS, JavaScript, Bootstrap, JQuery  
-**Back-End Technologies**: PHP, Flask, Django, MySQL  
+**Front-End Technologies**: Bootstrap, JavaScript, React, Tailwind
+**Back-End Technologies**: PHP, Flask, Django, Node.js
 **Web Frameworks**: Flask, Django, Bootstrap  
 **Content Management Systems**: WordPress  
 **Other**: Git/GitHub, Responsive Design, RESTful APIs, Agile Methodologies  
